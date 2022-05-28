@@ -5,6 +5,12 @@ Abstract This project is a one to one clone of the online e-commerce website of 
 
 Core Features Login and Signup Pages Login Credential Validation Landing Page and Hero Section Fully Functional Interactive Navigation Bar Product Section based on Categories Sort Feature Filter Feature Search Option Cart Feature Payment Checkout Technologies Used HyperText Markup Language Cascading Style Sheets Vanilla JavaScript ES6 Local Storage External Links 
 
+Techstack:
+1)HTML
+2)CSS
+3)JAVASCRIPT
+4)REACT
+
 Netlify Deployed Link:
 https://extraordinary-blancmange-42c3dc.netlify.app
 
